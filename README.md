@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![chcjswo's GitHub stats](https://github-readme-stats.vercel.app/api?username=chcjswo)](https://github.com/anuraghazra/github-readme-stats)
+[![chcjswo's GitHub stats](https://github-readme-stats.vercel.app/api?username=chcjswo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
