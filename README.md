@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<details>
+<summary>GitHub Stats</summary>
 [![chcjswo's GitHub stats](https://github-readme-stats.vercel.app/api?username=chcjswo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</details>
