@@ -55,7 +55,7 @@
   
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=chcjswo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div><img src="https://github-readme-stats.vercel.app/api?username=chcjswo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
 ## Top languages 
@@ -63,7 +63,7 @@
 
 
 ## Connect with me  
-<div align="center">
+<div>
 <a href="https://linkedin.com/in/민철-전-7000a565" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -74,9 +74,6 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
 
 
 ##### Some Advance Stats about my GitHub Profile - <a href="https://gitstats.me/chcjswo" rel="nofollow">https://gitstats.me/chcjswo</a><br><br>
