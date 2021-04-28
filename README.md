@@ -1,30 +1,84 @@
-### Hi there 👋
+### Hi there 👋  
 
----
-
-
-<!--
-**chcjswo/chcjswo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![chcjswo's GitHub stats](https://github-readme-stats.vercel.app/api?username=chcjswo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-##### Some Advance Stats about my GitHub Profile - <a href="https://gitstats.me/chcjswo" rel="nofollow">https://gitstats.me/chcjswo</a><br> 
-
-
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/19f686ee7be9e84e002135a16411658939d431a3f6c7f513498ff2d1e511b5b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465"><img alt="Java" src="https://camo.githubusercontent.com/19f686ee7be9e84e002135a16411658939d431a3f6c7f513498ff2d1e511b5b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/java-%23ED8B00.svg?&amp;style=for-the-badge&amp;logo=java&amp;logoColor=white" style="max-width:100%;"></a>&nbsp; 
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/62d37abe760867620e0baea1066303719d630a82936837ba7bff6b0c754e3c9f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742532302d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145"><img alt="JavaScript" src="https://camo.githubusercontent.com/62d37abe760867620e0baea1066303719d630a82936837ba7bff6b0c754e3c9f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742532302d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" data-canonical-src="https://img.shields.io/badge/javascript%20-%23323330.svg?&amp;style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" style="max-width:100%;"></a>&nbsp; 
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3ee97ce1a1b5f6611ba97fb888dd31caef8212ad36ad3626b9c0f8d8ca9ec50b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737072696e672532302d2532333644423333462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465"><img alt="Spring" src="https://camo.githubusercontent.com/3ee97ce1a1b5f6611ba97fb888dd31caef8212ad36ad3626b9c0f8d8ca9ec50b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737072696e672532302d2532333644423333462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&amp;style=for-the-badge&amp;logo=spring&amp;logoColor=white" style="max-width:100%;"></a>&nbsp; 
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/20f8a4f1e9c33b1cffb1968cda82ced5b6cd5d6c5a09865eab911724b1917d76/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"><img alt="MySQL" src="https://camo.githubusercontent.com/20f8a4f1e9c33b1cffb1968cda82ced5b6cd5d6c5a09865eab911724b1917d76/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/mysql-%2300f.svg?&amp;style=for-the-badge&amp;logo=mysql&amp;logoColor=white" style="max-width:100%;"></a>&nbsp;
+### <div>I'm tony, a java backend developer 👨‍💻 working since 2001 🚀</div>  
   
+
+- 🔭 I’m currently working on [@Petdoc](https://petdoc.co.kr)  
+  
+- 🌱 I’m currently learning Typescript and Kubernetes  
+  
+- ❓ Ask me about anything related to backend technologies  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+</div>
+</td><td valign="top" width="33%">
+
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="Mocha" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+### DevOps  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+</div>
+
+</td></tr></table>  
+  
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=chcjswo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+
+## Top languages 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chcjswo)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Connect with me  
+<div align="center">
+<a href="https://linkedin.com/in/민철-전-7000a565" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/chcjswo" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/chcjswo" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+##### Some Advance Stats about my GitHub Profile - <a href="https://gitstats.me/chcjswo" rel="nofollow">https://gitstats.me/chcjswo</a><br><br>
+
+<br />
