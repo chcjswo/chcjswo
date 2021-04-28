@@ -10,7 +10,7 @@
 - ❓ Ask me about anything related to backend technologies  
 
 
-## My Skill Set  
+## Tech Stack
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
