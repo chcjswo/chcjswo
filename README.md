@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently learning Typescript and Kubernetes  
 
-<h3>✨ Tech Stack ✨</h3>
+<h3>🛠️ Tech Stack</h3>
 
 <!-- Backend -->
 <div>
@@ -51,7 +51,7 @@
 
 <br>
 
-<h3>📚 Studying 📚</h3>
+<h3>📚 Studying</h3>
 <div>
   <img src="https://img.shields.io/badge/Typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp
