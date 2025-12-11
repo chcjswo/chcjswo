@@ -15,9 +15,8 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/JPA/Hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/QueryDSL-0288D1.svg?style=for-the-badge&logoColor=white" />&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=Node.js&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&amp;logo=Javascript&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=Node.js&amp;logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&amp;logo=Javascript&amp;logoColor=white">&nbsp
 </div>
 
 <br>
@@ -29,8 +28,7 @@
   <img src="https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&amp;logo=Heroku&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&amp;logo=Heroku&amp;logoColor=white">&nbsp
 </div>
 
 <br>
@@ -59,6 +57,8 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Helm-0F1689.svg?style=for-the-badge&logo=helm&logoColor=white" />&nbsp
 </div>
+
+<br>
 
 ## Github Stats  
 <div><img src="https://github-readme-stats.vercel.app/api?username=chcjswo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
